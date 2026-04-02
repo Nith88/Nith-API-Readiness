@@ -10,7 +10,7 @@ const options = {
     servers: [
       {
         url: process.env.NODE_ENV === "production"
-          ? "https://your-app.onrender.com"
+          ? "https://nith-api-readiness.onrender.com"
           : "http://localhost:3000"
       }
     ]
