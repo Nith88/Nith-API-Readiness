@@ -1,10 +1,10 @@
 # API Readiness Project
 
 ## Live API
-https://your-app.onrender.com
+https://nith-api-readiness.onrender.com
 
 ## Swagger Docs
-https://your-app.onrender.com/api-docs
+https://nith-api-readiness.onrender.com/api-docs
 
 ## Environment Variables
 PORT
